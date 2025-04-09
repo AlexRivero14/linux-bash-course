@@ -1,4 +1,4 @@
-# 01 Introducción y Configuraciones Iniciales
+# 🧰 Introducción y Configuraciones Iniciales
 
 Bienvenido a la primera sección del curso. Aquí aprenderás cómo preparar tu entorno para trabajar con Linux de forma segura, flexible y sin afectar tu sistema principal.
 
