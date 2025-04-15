@@ -49,5 +49,21 @@ _¿Querés patrocinar este proyecto?_ [Contactame por email](mailto:alexrivero@e
 
 ---
 
-## 📂 Estructura del curso
+## 🗂️ Contenido del curso
+
+| Módulo | Tema |
+|--------|------|
+| 01 | [Introducción y configuración inicial](./01-introduccion-configuracion-inicial) |
+| 02 | [Uso básico de Linux](./02-uso-basico-linux) |
+| 03 | [Permisos y tratamiento de la información](./03-permisos-tratamiento-informacion) |
+| 04 | [Variables y procesamiento](./04-variables-procesamiento) |
+| 05 | [Condicionales](./05-condicionales) |
+| 06 | [Bucles](./06-bucles) |
+| 07 | [Funciones](./07-funciones) |
+| 08 | [Colores en scripts](./08-colores-en-scripts) |
+| 09 | [Gestión de servidores con scripts](./09-gestion-servidores-scripts) |
+| 10 | [Ejercicios prácticos](./10-ejercicios-practicos) |
+| 11 | [Seguridad en servidores](./11-seguridad-servidores) |
+| 12 | [Despedida](./12-despedida) |
+
 
