@@ -15,40 +15,6 @@ Aquí aprenderás desde cero a usar la terminal, crear scripts automatizados y d
 
 ---
 
-## ⚙️ Requisitos
-
-Solo necesitás:
-
-- Una distro Linux (Ubuntu, Debian, Arch, etc.) o WSL en Windows
-- Ganas de aprender 🧠
-
----
-
-## ☕ Apoyá este proyecto
-
-Si este contenido te sirve o querés agradecer el trabajo, podés apoyarlo con un cafecito:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Invitame_un_café-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/alexrivero)
-
----
-
-## 📢 Sponsor del mes
-
-Este curso está patrocinado por:  
-🌐 [DigitalOcean VPS Hosting](https://m.do.co/c/your-affiliate-code) — ¡Tu servidor Linux desde $5/mes!
-
-_¿Querés patrocinar este proyecto?_ [Contactame por email](mailto:alexrivero@example.com)
-
----
-
-## 📚 Recursos recomendados
-
-- 📘 [Documentación oficial de Bash](https://www.gnu.org/software/bash/manual/)
-- 🐧 [DigitalOcean - Tutoriales Linux](https://www.digitalocean.com/community/tutorials)
-- 🎓 Curso premium opcional: [Linux Command Line Bootcamp (Udemy)](https://www.udemy.com/course/linux-command-line/?referralCode=yourcode)
-
----
-
 ## 🗂️ Contenido del curso
 
 | Módulo | Tema |
@@ -66,4 +32,44 @@ _¿Querés patrocinar este proyecto?_ [Contactame por email](mailto:alexrivero@e
 | 11 | [Seguridad en servidores](./11-seguridad-servidores) |
 | 12 | [Despedida](./12-despedida) |
 
+---
 
+## ⚙️ Requisitos
+
+Solo necesitás:
+
+- Una distro Linux (Ubuntu, Debian, Arch, etc.) o WSL en Windows
+- Ganas de aprender 💡
+
+---
+
+## ☕ Apoyá este proyecto
+
+Si este contenido te sirve o querés agradecer el trabajo, podés apoyarlo con un cafecito:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Invitame_un_café-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/alexrivero)
+
+---
+
+## 💼 Sponsor del mes
+
+Este curso está patrocinado por:  
+🌐 [DigitalOcean VPS Hosting](https://m.do.co/c/your-affiliate-code) — ¡Tu servidor Linux desde $5/mes!
+
+¿Querés patrocinar este proyecto? [Contactame por email](mailto:alexrivero@example.com)
+
+---
+
+## 📚 Recursos recomendados
+
+- 📘 [Documentación oficial de Bash](https://www.gnu.org/software/bash/manual/)
+- 🐧 [Tutoriales de Linux - DigitalOcean](https://www.digitalocean.com/community/tutorials)
+- 🎓 Curso premium de Bash: [Linux Command Line Bootcamp (Udemy)](https://www.udemy.com/course/linux-command-line/?referralCode=your-code)
+
+---
+
+## 📦 Instalación local
+
+```bash
+git clone https://github.com/AlexRivero14/linux-bash-course.git
+cd linux-bash-course
