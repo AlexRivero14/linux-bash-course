@@ -1,17 +1,17 @@
-# 🐧 Curso gratuito de Linux & Bash
+# 📘 Curso gratuito de Linux & Bash
 
 ¡Bienvenido al curso gratuito de **Linux y scripting en Bash**!  
 Aquí aprenderás desde cero a usar la terminal, crear scripts automatizados y dominar herramientas esenciales del entorno Unix/Linux.
 
 ---
 
-## 🎓 ¿Qué aprenderás?
+## ✨ ¿Qué aprenderás?
 
-- Comandos esenciales del sistema Linux
-- Navegación y manipulación de archivos
-- Permisos, procesos, redirecciones
-- Bash scripting (condicionales, loops, funciones)
-- Automatización de tareas reales
+- 🖥️ Comandos esenciales del sistema Linux  
+- 📁 Navegación y manipulación de archivos  
+- 🔐 Permisos, procesos, redirecciones  
+- ⚙️ Bash scripting (condicionales, loops, funciones)  
+- 🤖 Automatización de tareas reales  
 
 ---
 
@@ -19,33 +19,31 @@ Aquí aprenderás desde cero a usar la terminal, crear scripts automatizados y d
 
 | Módulo | Tema |
 |--------|------|
-| 01 | [Introducción y configuración inicial](./01-introduccion-configuracion-inicial) |
-| 02 | [Uso básico de Linux](./02-uso-basico-linux) |
-| 03 | [Permisos y tratamiento de la información](./03-permisos-tratamiento-informacion) |
-| 04 | [Variables y procesamiento](./04-variables-procesamiento) |
-| 05 | [Condicionales](./05-condicionales) |
-| 06 | [Bucles](./06-bucles) |
-| 07 | [Funciones](./07-funciones) |
-| 08 | [Colores en scripts](./08-colores-en-scripts) |
-| 09 | [Gestión de servidores con scripts](./09-gestion-servidores-scripts) |
-| 10 | [Ejercicios prácticos](./10-ejercicios-practicos) |
-| 11 | [Seguridad en servidores](./11-seguridad-servidores) |
-| 12 | [Despedida](./12-despedida) |
+| 01 | [📘 Introducción y configuración inicial](./01-introduccion-configuracion-inicial) |
+| 02 | [💻 Uso básico de Linux](./02-uso-basico-linux) |
+| 03 | [🔐 Permisos y tratamiento de la información](./03-permisos-tratamiento-informacion) |
+| 04 | [⚙️ Variables y procesamiento](./04-variables-procesamiento) |
+| 05 | [🔁 Condicionales](./05-condicionales) |
+| 06 | [🔄 Bucles](./06-bucles) |
+| 07 | [🧠 Funciones](./07-funciones) |
+| 08 | [🎨 Colores en scripts](./08-colores-en-scripts) |
+| 09 | [🖥️ Gestión de servidores con scripts](./09-gestion-servidores-scripts) |
+| 10 | [🧪 Ejercicios prácticos](./10-ejercicios-practicos) |
+| 11 | [🔒 Seguridad en servidores](./11-seguridad-servidores) |
+| 12 | [🎓 Despedida](./12-despedida) |
 
 ---
 
-## ⚙️ Requisitos
+## 🧰 Requisitos
 
-Solo necesitás:
-
-- Una distro Linux (Ubuntu, Debian, Arch, etc.) o WSL en Windows
-- Ganas de aprender 💡
+- 🐧 Una distro Linux (Ubuntu, Debian, Arch, etc.) o WSL en Windows  
+- 📌 Ganas de aprender y experimentar  
 
 ---
 
 ## ☕ Apoyá este proyecto
 
-Si este contenido te sirve o querés agradecer el trabajo, podés apoyarlo con un cafecito:
+Si este contenido te ayuda o te resulta útil, podés invitarme un cafecito:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Invitame_un_café-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/alexrivero)
 
@@ -54,7 +52,7 @@ Si este contenido te sirve o querés agradecer el trabajo, podés apoyarlo con u
 ## 💼 Sponsor del mes
 
 Este curso está patrocinado por:  
-🌐 [DigitalOcean VPS Hosting](https://m.do.co/c/your-affiliate-code) — ¡Tu servidor Linux desde $5/mes!
+🌐 [DigitalOcean VPS Hosting](https://m.do.co/c/your-affiliate-code) — Tu servidor Linux desde $5/mes
 
 ¿Querés patrocinar este proyecto? [Contactame por email](mailto:alexrivero@example.com)
 
@@ -62,14 +60,15 @@ Este curso está patrocinado por:
 
 ## 📚 Recursos recomendados
 
-- 📘 [Documentación oficial de Bash](https://www.gnu.org/software/bash/manual/)
-- 🐧 [Tutoriales de Linux - DigitalOcean](https://www.digitalocean.com/community/tutorials)
-- 🎓 Curso premium de Bash: [Linux Command Line Bootcamp (Udemy)](https://www.udemy.com/course/linux-command-line/?referralCode=your-code)
+- 📘 [Documentación oficial de Bash](https://www.gnu.org/software/bash/manual/)  
+- 🐧 [Tutoriales de Linux en DigitalOcean](https://www.digitalocean.com/community/tutorials)  
+- 🎓 [Curso Premium: Linux Command Line (Udemy)](https://www.udemy.com/course/linux-command-line/?referralCode=your-code)
 
 ---
 
-## 📦 Instalación local
+## 🚀 Instalación local
 
 ```bash
 git clone https://github.com/AlexRivero14/linux-bash-course.git
 cd linux-bash-course
+
